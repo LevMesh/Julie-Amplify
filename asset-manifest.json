@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/julie-re/static/css/main.068ee056.css",
+    "main.js": "/julie-re/static/js/main.a425dbf8.js",
+    "static/js/787.0a2f5490.chunk.js": "/julie-re/static/js/787.0a2f5490.chunk.js",
+    "static/media/buy_house.jpg": "/julie-re/static/media/buy_house.4c47bcc8d946c9c18de1.jpg",
+    "static/media/rent_house.jpg": "/julie-re/static/media/rent_house.1953cd35ed600e77b030.jpg",
+    "index.html": "/julie-re/index.html",
+    "main.068ee056.css.map": "/julie-re/static/css/main.068ee056.css.map",
+    "main.a425dbf8.js.map": "/julie-re/static/js/main.a425dbf8.js.map",
+    "787.0a2f5490.chunk.js.map": "/julie-re/static/js/787.0a2f5490.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.068ee056.css",
+    "static/js/main.a425dbf8.js"
+  ]
+}
